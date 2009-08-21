@@ -34,7 +34,7 @@ For more information on tog, see https://github.com/tog/tog
       s.add_runtime_dependency(%q<mislav-will_paginate>, [">= 2.3.2"])
       s.add_runtime_dependency(%q<rubigen>, [">= 1.3.2"])
       s.add_runtime_dependency(%q<newgem>, [">= 1.0.3"])
-      s.add_runtime_dependency(%q<desert>, [">= 0.5"])
+      s.add_runtime_dependency(%q<cauta-desert>, [">= 0.5.3"])
       s.add_runtime_dependency(%q<RedCloth>, [">= 3.0.4"])
       s.add_runtime_dependency(%q<rubyzip>, [">= 0.9.1"])
       s.add_runtime_dependency(%q<oauth>, [">= 0.2.7"])
